@@ -1,19 +1,19 @@
 <package>
-	<id>com.sukarodo.samplepackage</id>
-	<name>Sample Package</name>
-	<version>1.0</version>
+	<id>com.imdidet.rchacked</id>
+	<name>rchacked</name>
+	<version>0.0.1-2+debug</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>9.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>This is a sample new package. Firmware should be greater than 9.0</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>Reverser Cam Hacked.</description>
+		<description>Enjoy.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
