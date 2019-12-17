@@ -1,8 +1,0 @@
-Origin: spikerepo.github.io
-Label: Spike Repo
-Suite: stable
-Version: 0.1
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Make your iPhone work how you want it. Install a theme, add completely new features to apps and the operating system, or modify existing ones. There’s a countless number of things
