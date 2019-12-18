@@ -6,8 +6,8 @@ Depends: mobilesubstrate
 Filename: ./debians/com.imdidet.rchacked.deb
 Size: 122338
 MD5sum: fed14d4ec75760c280fa6d060451380a
-SHA1: 43494F435171097BCD5A96FC4A4494C4CC78EF03
-SHA256: FFCC2BE24B39483A1517D05D894EEE2A347ED5796E44264A5A9FF6DB04D42392
+SHA1: 43494f435171097bcd5a96fc4a4494c4cc78ef03
+SHA256: ffcc2be24b39483a1517d05d894eee2a347ed5796e44264a5a9ff6db04d42392
 Section: Tweak hacked
 Description: Reverser Cam Hacked
 Homepage:https://mohamed-hmd.github.io/SpikeRepo/test/CydiaDepictions/?p=com.imdidet.rchacked
