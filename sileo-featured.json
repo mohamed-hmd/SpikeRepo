@@ -1,13 +1,19 @@
 {
-  "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-        "url": "https://raw.githubusercontent.com/sukarodo/Sidia/master/assets/Banners/RepoHeader.png",
-        "title": "Sample Package",
-        "package": "com.sukarodo.samplepackage",
-        "hideShadow": false
-    }
-  ]
+   "class":"FeaturedBannersView",
+   "itemSize":"{296, 148}",
+   "itemCornerRadius":10,
+   "banners":[
+      {
+         "url":"https://raw.githubusercontent.com/sukarodo/iOS-Repository/master/assets/repo/Banners/notavokebanner.png",
+         "title":"notavoke",
+         "package":"com.sukarodo.notavoke",
+         "hideShadow":false
+      },
+      {
+         "url":"https://sukarodo.github.io/assets/Insidious/repository/Banners/RepoHeader.png",
+         "title":"Debian Packager (Perl)",
+         "package":"dpkg-perl",
+         "hideShadow":false
+      }
+   ]
 }
