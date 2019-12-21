@@ -9,8 +9,8 @@ SHA1: 43494f435171097bcd5a96fc4a4494c4cc78ef03
 SHA256: ffcc2be24b39483a1517d05d894eee2a347ed5796e44264a5a9ff6db04d42392
 Section: Tweak hacked
 Description: Reverser Cam Hacked
-SileoDepiction:  Reverser Cam Hacked.
-Depiction: Reverser Cam Hacked
+SileoDepiction:  ./depictions/native/com.imdidet.rchacked.deb/depiction.json
+Depiction: ./depictions/web/com.imdidet.rchacked.deb/index.html
 Installed-Size: 120
 Name: rchacked
 Priority: 
