@@ -1,0 +1,81 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/sukarodo/Sidia/master/assets/Banners/RepoHeader.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+            "views": [
+                {
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "title": "com.imdidet.rchacked",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Reverser Cam Hacked",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": ""
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "markdown": "Reverser Cam Hacked",
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "class": "DepictionTableTextView",
+                    "text": "0.0.1-2+debug"
+                },
+                {
+                    "title": "Released",
+                    "class": "DepictionTableTextView",
+                    "text": "12-20-2019"
+                },
+                {
+                    "title": "Price",
+                    "class": "DepictionTableTextView",
+                    "text": "free"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "class": "DepictionTableTextView",
+                    "text": "imdidet"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "tintColor": "#0657bb",
+    "headerImage": "",
+    "minVersion": "0.1",
+    "class": "DepictionTabView"
+}

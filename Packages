@@ -2,21 +2,15 @@ Package: com.imdidet.rchacked
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: imdidet <imdidet@gmqil.com>
-Depends: mobilesubstrate
 Filename: ./debians/com.imdidet.rchacked.deb
 Size: 122338
 MD5sum: fed14d4ec75760c280fa6d060451380a
-<<<<<<< HEAD
 SHA1: 43494f435171097bcd5a96fc4a4494c4cc78ef03
 SHA256: ffcc2be24b39483a1517d05d894eee2a347ed5796e44264a5a9ff6db04d42392
-=======
-<<<<<<< HEAD
-SHA1: 43494f435171097bcd5a96fc4a4494c4cc78ef03
-SHA256: ffcc2be24b39483a1517d05d894eee2a347ed5796e44264a5a9ff6db04d42392
-=======
->>>>>>> 3683760dd10e20dfef519fa864670b32f2d04cfa
->>>>>>> eef994f9d498c10cb1a63098f568861dc980cd52
 Section: Tweak hacked
 Description: Reverser Cam Hacked
+SileoDepiction:  ./depictions/native/com.imdidet.rchacked.deb/depiction.json
+Depiction: ./depictions/web/com.imdidet.rchacked.deb/index.html
+Installed-Size: 120
 Name: rchacked
-
+Priority: 
