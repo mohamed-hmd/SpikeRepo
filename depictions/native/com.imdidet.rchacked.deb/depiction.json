@@ -14,13 +14,6 @@
                "useWebView":true
             },
             {
-               "class":"DepictionAdmobView",
-               "adUnitID":"ca-app-pub-9618508478827874/7445849485",
-               "adSize":"SmartBanner",
-               "adAppID":"ca-app-pub-9618508478827874~7773152540",
-               "contentURL":"https://repo.sukarodo.me/package/com.sukarodo.notavoke/"
-            },
-            {
                "class":"DepictionStackView",
                "orientation":"landscape",
                "views":[
@@ -88,13 +81,7 @@
                   }
                ]
             },
-            {
-               "class":"DepictionAdmobView",
-               "adUnitID":"ca-app-pub-9618508478827874/7445849485",
-               "adAppID":"ca-app-pub-9618508478827874~7773152540",
-               "adSize":"LargeBanner",
-               "contentURL":"https://repo.sukarodo.me/package/com.sukarodo.notavoke/"
-            }
+           
          ]
       },
       {
@@ -152,11 +139,6 @@
                      "class":"DepictionSeparatorView"
                   },
                   {
-                     "class":"DepictionAdmobView",
-                     "adUnitID":"ca-app-pub-9618508478827874/7445849485",
-                     "adSize":"SmartBanner",
-                     "adAppID":"ca-app-pub-9618508478827874~7773152540",
-                     "contentURL":"https://repo.sukarodo.me/package/com.sukarodo.me/changes"
                   }
                ]
             }
