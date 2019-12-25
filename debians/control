@@ -1,0 +1,12 @@
+Package: com.imdidet.rchacked
+Name: rchacked
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Reverser Cam Hacked
+Maintainer: imdidet
+Author: imdidet
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 120
+Depiction: https://mohamed-hmd.github.io/SpikeRepo/depictions/web/?p=com.imdidet.rchacked.deb
+SileoDepiction: https://mohamed-hmd.github.io/SpikeRepo/depictions/native/com.imdidet.rchacked.deb/depiction.json
